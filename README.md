@@ -1,4 +1,4 @@
-# 🧠 Federated Averaging (FedAvg) – From Scratch in Python
+# 🧠 Federated Averaging (FedAvg) 
 
 This repository contains a **from-scratch implementation of Federated Learning using the FedAvg algorithm**, demonstrating how decentralized clients collaboratively train a global model **without sharing raw data**.
 
